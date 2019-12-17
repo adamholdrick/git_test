@@ -5,6 +5,7 @@ input {
 
 .logo-position {
     text-align: center;
+    padding-top: 160px;
 }
 
 .search-pos {
@@ -20,12 +21,13 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-color:0;
+    text-align: center;
     
 }
 
 li {
     float: left;
-    
 }
 
 li a {
@@ -34,11 +36,11 @@ li a {
     display: block;
     color: black;
     text-align: center;
-    padding: 8px 10px;
-    text-decoration:none;
+    margin: 8px 15px;
+    text-decoration:none;  
+    
 }
 
 .rh-nav-bar {
-    float:right;
-    
+    float:right;   
 }
